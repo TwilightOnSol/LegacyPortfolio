@@ -7,11 +7,11 @@ This repository is part of the TwilightOnSol ecosystem. It has been audited and 
 - index.html
 - script.js
 - styles.css
+- README.md
+- Manus AI feedback & overview
 - pages/About/index.html
 - pages/About/styles.css
 - pages/DemonTax/Index.html
 - pages/DemonTax/demon.PNG
 - pages/DemonTax/styles.css
-- pages/FlowLab/Index.html
-- pages/FlowLab/styles.css
 - ...
