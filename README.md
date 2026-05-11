@@ -1,17 +1,9 @@
-# LegacyPortfolio
+# Legacy Portfolio
 
 ## Overview
-This repository is part of the TwilightOnSol ecosystem. It has been audited and refactored for better performance and maintainability.
+A personal portfolio website showcasing early projects and skills. This was originally developed as a final project for a Computer Science Principles (CSP) course.
 
-## Project Structure
-- index.html
-- script.js
-- styles.css
-- README.md
-- Manus AI feedback & overview
-- pages/About/index.html
-- pages/About/styles.css
-- pages/DemonTax/Index.html
-- pages/DemonTax/demon.PNG
-- pages/DemonTax/styles.css
-- ...
+## Features
+- **Project Showcases**: Includes sections for various early web and coding projects.
+- **Multi-Page Design**: Features dedicated pages for 'About' and specific project deep-dives like 'DemonTax'.
+- **Responsive Layout**: Built with standard HTML/CSS/JS.
